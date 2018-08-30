@@ -1,0 +1,7 @@
+C:\Users\nicol\source\repos\tipos-variaveis\tipos-variaveis\bin\Debug\tipos-variaveis.exe.config
+C:\Users\nicol\source\repos\tipos-variaveis\tipos-variaveis\bin\Debug\tipos-variaveis.exe
+C:\Users\nicol\source\repos\tipos-variaveis\tipos-variaveis\bin\Debug\tipos-variaveis.pdb
+C:\Users\nicol\source\repos\tipos-variaveis\tipos-variaveis\obj\Debug\tipos-variaveis.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\tipos-variaveis\tipos-variaveis\obj\Debug\tipos-variaveis.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\tipos-variaveis\tipos-variaveis\obj\Debug\tipos-variaveis.exe
+C:\Users\nicol\source\repos\tipos-variaveis\tipos-variaveis\obj\Debug\tipos-variaveis.pdb
